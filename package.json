@@ -1,0 +1,36 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "Wrapper component to register controlled inputs",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.9.7",
+    "@material-ui/lab": "^4.0.0-alpha.46",
+    "downshift": "5.2.7",
+    "react": "16.13.1",
+    "react-datepicker": "2.14.0",
+    "react-dom": "16.13.1",
+    "react-hook-form": "5.5.1",
+    "react-hook-form-resolvers": "0.0.1",
+    "react-number-format": "4.4.1",
+    "react-scripts": "^3.4.0",
+    "react-select": "3.1.0",
+    "reactstrap": "^9.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
